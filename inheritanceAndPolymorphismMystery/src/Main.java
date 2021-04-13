@@ -18,7 +18,7 @@ public class Main {
 //        var5.a();
 //        ((Chris) var5).a();
 //        ((Jerry) var1).a();
-//        ((Jerry) var4).a();
+        ((Jerry) var4).a();
 //        ((Chris) var3).b();
 //        ((Eddie) var3).b();
 //        ((Jerry) var4).c();
