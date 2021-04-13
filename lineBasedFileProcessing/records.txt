@@ -1,0 +1,9 @@
+.Statement of Purpose
+I didn't expect to major in computer science until I took EGR121.
+I liked it more than I expected and that got me hooked on cs.
+
+.High School Performance
+I got very good grades in high school, graduating in the top 10% of my class.
+
+.College Performance
+I have done well in my college classes, with an overall gpa of 3.5.
