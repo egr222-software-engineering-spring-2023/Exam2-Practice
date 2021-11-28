@@ -2,6 +2,8 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
+        Main a = new Main();
+
         List<String> list1 = new ArrayList<String>() {
             {
                 add("b");
@@ -20,7 +22,7 @@ public class Main {
             }
         };
 
-        System.out.println(mystery2(list1,list2));
+        System.out.println(a.mystery2(list1,list2));
 
         list1.clear();
         list1.add("s");
@@ -36,10 +38,10 @@ public class Main {
         list2.add("k");
         list2.add("s");
 
-        System.out.println(mystery2(list1,list2));
+        System.out.println(a.mystery2(list1,list2));
     }
 
-    public static Map<String, String> mystery2(List<String> list1, List<String> list2) {
+    public Map<String, String> mystery2(List<String> list1, List<String> list2) {
         Map<String, String> result = new TreeMap<String, String>();
         for (int i = 0; i < list1.size(); i++) {
             result.put(list1.get(i), list2.get(i));

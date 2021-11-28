@@ -42,6 +42,9 @@ public class CalendarDate implements Comparable<CalendarDate> {
         }
     }
 
+//    The implementation below is a "flawed" implementation of equals because it behaves incorrectly if the class is extended to child classes
+//    (See PowerPoint from 10/21/2021)
+
 //    @Override
 //    public boolean equals(Object o) {
 //        if (o instanceof CalendarDate) {
