@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalendarDate/CalendarDate.iml" filepath="$PROJECT_DIR$/CalendarDate/CalendarDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Explore/Explore.iml" filepath="$PROJECT_DIR$/Explore/Explore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Solution.iml" filepath="$PROJECT_DIR$/.idea/Solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayList/arrayList.iml" filepath="$PROJECT_DIR$/arrayList/arrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayListMystery/arrayListMystery.iml" filepath="$PROJECT_DIR$/arrayListMystery/arrayListMystery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionMystery/collectionMystery.iml" filepath="$PROJECT_DIR$/collectionMystery/collectionMystery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionMystery2/collectionMystery2.iml" filepath="$PROJECT_DIR$/collectionMystery2/collectionMystery2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constructorMystery/constructorMystery.iml" filepath="$PROJECT_DIR$/constructorMystery/constructorMystery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritanceAndPolymorphismMystery/inheritanceAndPolymorphismMystery.iml" filepath="$PROJECT_DIR$/inheritanceAndPolymorphismMystery/inheritanceAndPolymorphismMystery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lineBasedFileProcessing/lineBasedFileProcessing.iml" filepath="$PROJECT_DIR$/lineBasedFileProcessing/lineBasedFileProcessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/referenceMystery/referenceMystery.iml" filepath="$PROJECT_DIR$/referenceMystery/referenceMystery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tokenBasedFileProcessing/tokenBasedFileProcessing.iml" filepath="$PROJECT_DIR$/tokenBasedFileProcessing/tokenBasedFileProcessing.iml" />
+    </modules>
+  </component>
+</project>
