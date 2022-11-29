@@ -25,7 +25,7 @@ public class Main {
 //        var5.a(); // compiler error
 
         System.out.println("((Chris) var5).a()");
-//        ((Chris) var5).a(); // runtime error - throws an exception because Jerry cannot be cast to Chris
+        ((Chris) var5).a(); // runtime error - throws an exception because Jerry cannot be cast to Chris
         System.out.println("((Jerry) var1).a()");
         ((Jerry) var1).a();
         System.out.println("((Jerry) var4).a()");

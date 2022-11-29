@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws FileNotFoundException {
-        Scanner x = new Scanner(new File("records.txt"));
+        Scanner x = new Scanner(new File("./tokenBasedFileProcessing/records.txt"));
 
         tallyScores(x);
     }
