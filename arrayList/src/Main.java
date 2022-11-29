@@ -16,10 +16,10 @@ public class Main {
     }
 
     public static void rearrange(ArrayList<Integer> list) {
-        for (int i = 1; i <= list.size() / 2; i++) {
-            int n = list.get(i);
-            list.remove(i);
-            list.add(n);
+        for (int i = 1; i <= list.size() / 2; i++) {    // loop over the ODD indices
+            int n = list.get(i);                        // get the value at the current ODD index
+            list.remove(i);                             // remove it (shifts all values to the left)
+            list.add(n);                                // add the value (which adds it to the end of the list)
         }
     }
 }
